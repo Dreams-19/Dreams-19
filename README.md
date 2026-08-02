@@ -7,7 +7,7 @@
 <td align="center"><a href="#"><img src="https://img.shields.io/badge/-Portfolio-0f2027?style=for-the-badge"/></a></td>
 <td align="center"><a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a></td>
 <td align="center"><a href="mailto:example@email.com"><img src="https://img.shields.io/badge/-Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=white"/></a></td>
-<td align="center"><a href="https://github.com/EdmondNanaBoateng"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a></td>
+<td align="center"><a href="https://github.com/Dreams-19"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a></td>
 </tr>
 </table>
 
@@ -75,12 +75,12 @@ I'm a Computer Science student who lives at the intersection of two disciplines:
 ### 📊 GitHub Activity
 
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=EdmondNanaBoateng&show_icons=true&theme=dark&hide_border=true&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff&bg_color=0f2027"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdmondNanaBoateng&layout=compact&theme=dark&hide_border=true&title_color=D4AF37&text_color=ffffff&bg_color=0f2027"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Dreams-19&show_icons=true&theme=dark&hide_border=true&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff&bg_color=0f2027"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dreams-19&layout=compact&theme=dark&hide_border=true&title_color=D4AF37&text_color=ffffff&bg_color=0f2027"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EdmondNanaBoateng&theme=dark&hide_border=true&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&background=0f2027"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dreams-19&theme=dark&hide_border=true&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&background=0f2027"/>
 </div>
 
 <br/>
@@ -95,5 +95,5 @@ I'm a Computer Science student who lives at the intersection of two disciplines:
 
 <div align="center">
 <sub>Building with code. Trading with discipline.</sub><br/>
-<img src="https://komarev.com/ghpvc/?username=EdmondNanaBoateng&style=flat-square&color=D4AF37"/>
+<img src="https://komarev.com/ghpvc/?username=Dreams-19&style=flat-square&color=D4AF37"/>
 </div>
