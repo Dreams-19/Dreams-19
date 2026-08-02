@@ -80,6 +80,12 @@ I'm a Computer Science student who lives at the intersection of two disciplines:
 </div>
 
 <div align="center">
+<img src="https://streak-stats.demolab.com/?user=Dreams-19&theme=dark&hide_border=true&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&background=0f2027"/>
+</div>
+
+<br/>
+
+<div align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
