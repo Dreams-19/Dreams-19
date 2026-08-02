@@ -80,7 +80,7 @@ I'm a Computer Science student who lives at the intersection of two disciplines:
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dreams-19&theme=dark&hide_border=true&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&background=0f2027"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dreams-19&theme=github-dark-blue&hide_border=true&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&background=0f2027"/>
 </div>
 
 <br/>
