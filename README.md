@@ -1,96 +1,69 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6C63FF,100:00E5FF&height=230&section=header&text=Edmond%20Nana%20Boateng&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20Forex%20Trader%20%E2%80%A2%20CS%20Student&descAlignY=58&descColor=E0E0FF" width="100%"/>
+
 <div align="center">
-
-```
- _____ ____  __  __  ____  _   _ ____
-| ____|  _ \|  \/  |/ __ \| \ | |  _ \
-|  _| | | | | |\/| | |  | |  \| | | | |
-| |___| |_| | |  | | |__| | |\  | |_| |
-|_____|____/|_|  |_|\____/|_| \_|____/
-
-  N A N A   B O A T E N G
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=39FF14&background=00000000&center=true&vCenter=true&width=650&lines=root%40edmond%3A~%24+whoami;frontend+developer+%7C+forex+trader;root%40edmond%3A~%24+status+--check;access+granted._" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=650&lines=Crafting+clean+interfaces%2C+one+component+at+a+time.;Reading+charts+the+way+others+read+the+news.;Discipline+first.+Everything+else+follows." />
 </div>
 
-<br/>
+<table align="center">
+<tr>
+<td align="center"><a href="https://github.com/Dreams-19"><img src="https://img.shields.io/badge/-GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=00E5FF"/></a></td>
+</tr>
+</table>
 
-```bash
-root@edmond:~$ cat about.txt
-```
+---
 
-> Computer Science student who builds interfaces during the day and reads
-> forex charts at night. Two disciplines, one mindset: find the pattern,
-> manage the risk, execute with discipline.
+# 📖 About
 
-<br/>
+I'm a Computer Science student who lives at the intersection of two disciplines: building software and trading markets. Both are exercises in pattern recognition under uncertainty — one just happens to have a live P&L attached.
 
-```bash
-root@edmond:~$ ls ./skills/development/
-```
+---
 
-<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=39FF14"/> <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=39FF14"/> <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=39FF14"/> <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=39FF14"/> <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=39FF14"/> <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=39FF14"/> <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=39FF14"/> <img src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=39FF14"/> <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=39FF14"/> <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=39FF14"/> <img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=39FF14"/> <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=39FF14"/>
+# 🛠️ Toolkit
 
-```bash
-root@edmond:~$ ls ./skills/markets/
-```
+**Development**
 
-<img src="https://img.shields.io/badge/MetaTrader-000000?style=flat-square&logoColor=39FF14"/> <img src="https://img.shields.io/badge/TradingView-000000?style=flat-square&logo=tradingview&logoColor=39FF14"/> <img src="https://img.shields.io/badge/Forex-000000?style=flat-square&logoColor=39FF14"/> <img src="https://img.shields.io/badge/Technical_Analysis-000000?style=flat-square&logoColor=39FF14"/> <img src="https://img.shields.io/badge/Risk_Management-000000?style=flat-square&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
-<br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 
-```bash
-root@edmond:~$ cat trading_philosophy.log
-```
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
-```
-[INFO]  capital preservation > capital growth
-[INFO]  edge only compounds if you survive to use it
-[INFO]  markets   : major & minor forex pairs
-[INFO]  style     : price action + technical analysis
-[INFO]  process   : backtest(python) -> paper_trade() -> execute(stop_loss=strict)
-```
+**Markets**
 
-<br/>
+<img src="https://img.shields.io/badge/MetaTrader-1B5E20?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white"/> <img src="https://img.shields.io/badge/Forex-6C63FF?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Technical%20Analysis-00E5FF?style=for-the-badge&logoColor=black"/> <img src="https://img.shields.io/badge/Risk%20Management-FF6B35?style=for-the-badge&logoColor=white"/>
 
-```bash
-root@edmond:~$ ./run_diagnostics.sh --target=github
-```
+---
+
+# 📈 Trading Philosophy
+
+> Capital preservation comes before capital growth. An edge only compounds if you're still in the game to use it.
+
+- **Markets:** Major & minor forex pairs
+- **Style:** Price action & technical analysis, risk-managed entries
+- **Process:** Backtest in Python → paper trade → size in with strict stop-loss discipline
+
+---
+
+# 📊 GitHub Activity
 
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Dreams-19&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dreams-19&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Dreams-19&show_icons=true&theme=dark&hide_border=true&title_color=00E5FF&icon_color=6C63FF&text_color=ffffff&bg_color=1a1a2e"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dreams-19&layout=compact&theme=dark&hide_border=true&title_color=00E5FF&text_color=ffffff&bg_color=1a1a2e"/>
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=Dreams-19&theme=github-dark&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14"/>
+<img src="https://streak-stats.demolab.com/?user=Dreams-19&theme=dark&hide_border=false&border=FF6B35&ring=FF6B35&fire=FFB627&currStreakLabel=FFB627&sideLabels=FF6B35&sideNums=ffffff&dates=8888aa&background=1a1a2e"/>
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=6C63FF&height=25&section=header" width="100%"/>
+
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dreams-19&theme=react-dark&hide_border=true&area=true&color=39FF14&line=39FF14&point=ffffff&bg_color=000000" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dreams-19&theme=react-dark&hide_border=true&area=true&color=00E5FF&line=6C63FF&point=ffffff&bg_color=1a1a2e" width="100%"/>
 </div>
 
-<br/>
-
-```bash
-root@edmond:~$ cat contact.txt
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:6C63FF,100:1a1a2e&height=150&section=footer" width="100%"/>
 
 <div align="center">
-<a href="https://github.com/Dreams-19"><img src="https://img.shields.io/badge/-%3E_connect_on_github-000000?style=for-the-badge&logo=github&logoColor=39FF14"/></a>
-</div>
-
-<br/>
-
-<div align="center">
-
-```
-root@edmond:~$ echo "connection closed."
-connection closed.
-root@edmond:~$ _
-```
-
-<img src="https://komarev.com/ghpvc/?username=Dreams-19&style=flat-square&color=39FF14&label=SESSIONS"/>
-
+<sub>Building with code. Trading with discipline.</sub><br/>
+<img src="https://komarev.com/ghpvc/?username=Dreams-19&style=flat-square&color=6C63FF"/>
 </div>
