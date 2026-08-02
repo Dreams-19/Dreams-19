@@ -10,13 +10,13 @@
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=6C63FF&height=40&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:1a1a2e,100:6C63FF&height=60&section=header" width="100%"/>
 
 # 📖 About
 
 I'm a Computer Science student who lives at the intersection of two disciplines: building software and trading markets. Both are exercises in pattern recognition under uncertainty — one just happens to have a live P&L attached.
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00E5FF&height=40&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:6C63FF,100:00E5FF&height=60&section=header" width="100%"/>
 
 # 🛠️ Toolkit
 
@@ -32,7 +32,7 @@ I'm a Computer Science student who lives at the intersection of two disciplines:
 
 <img src="https://img.shields.io/badge/MetaTrader-1B5E20?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white"/> <img src="https://img.shields.io/badge/Forex-6C63FF?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Technical%20Analysis-00E5FF?style=for-the-badge&logoColor=black"/> <img src="https://img.shields.io/badge/Risk%20Management-FF6B35?style=for-the-badge&logoColor=white"/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=6C63FF&height=40&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:00E5FF,100:FF6B35&height=60&section=header" width="100%"/>
 
 # 📈 Trading Philosophy
 
@@ -42,7 +42,7 @@ I'm a Computer Science student who lives at the intersection of two disciplines:
 - **Style:** Price action & technical analysis, risk-managed entries
 - **Process:** Backtest in Python → paper trade → size in with strict stop-loss discipline
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00E5FF&height=40&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:FF6B35,100:6C63FF&height=60&section=header" width="100%"/>
 
 # 📊 GitHub Activity
 
@@ -54,6 +54,8 @@ I'm a Computer Science student who lives at the intersection of two disciplines:
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=Dreams-19&theme=dark&hide_border=false&border=FF6B35&ring=FF6B35&fire=FFB627&currStreakLabel=FFB627&sideLabels=FF6B35&sideNums=ffffff&dates=8888aa&background=1a1a2e"/>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=6C63FF&height=25&section=header" width="100%"/>
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dreams-19&theme=react-dark&hide_border=true&area=true&color=00E5FF&line=6C63FF&point=ffffff&bg_color=1a1a2e" width="100%"/>
