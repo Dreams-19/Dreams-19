@@ -26,28 +26,18 @@ I'm a Computer Science student who lives at the intersection of two disciplines:
 
 **Development**
 
-<img src="https://img.shields.io/badge/JavaScript-1a1a2e?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/React-1a1a2e?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/HTML5-1a1a2e?style=flat-square&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-1a1a2e?style=flat-square&logo=css3&logoColor=2965F1"/>
-<img src="https://img.shields.io/badge/Node.js-1a1a2e?style=flat-square&logo=node.js&logoColor=339933"/>
-<img src="https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/Java-1a1a2e?style=flat-square&logo=openjdk&logoColor=ED8B00"/>
-<img src="https://img.shields.io/badge/PHP-1a1a2e?style=flat-square&logo=php&logoColor=777BB4"/>
-<img src="https://img.shields.io/badge/Git-1a1a2e?style=flat-square&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/Firebase-1a1a2e?style=flat-square&logo=firebase&logoColor=FFCA28"/>
-<img src="https://img.shields.io/badge/Figma-1a1a2e?style=flat-square&logo=figma&logoColor=F24E1E"/>
+<img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,python,java,php,git,github,firebase,figma&theme=dark" />
 
 </td>
 <td valign="top" width="50%">
 
 **Markets**
 
-<img src="https://img.shields.io/badge/MetaTrader-1a1a2e?style=flat-square&logoColor=6C63FF"/>
-<img src="https://img.shields.io/badge/TradingView-1a1a2e?style=flat-square&logo=tradingview&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Forex-1a1a2e?style=flat-square&logoColor=6C63FF"/>
-<img src="https://img.shields.io/badge/Technical%20Analysis-1a1a2e?style=flat-square&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Risk%20Management-1a1a2e?style=flat-square&logoColor=6C63FF"/>
+<img src="https://img.shields.io/badge/MetaTrader-1a1a2e?style=for-the-badge&logoColor=6C63FF" height="45"/>
+<img src="https://img.shields.io/badge/TradingView-1a1a2e?style=for-the-badge&logo=tradingview&logoColor=00E5FF" height="45"/>
+<img src="https://img.shields.io/badge/Forex-1a1a2e?style=for-the-badge&logoColor=6C63FF" height="45"/>
+<img src="https://img.shields.io/badge/Technical%20Analysis-1a1a2e?style=for-the-badge&logoColor=00E5FF" height="45"/>
+<img src="https://img.shields.io/badge/Risk%20Management-1a1a2e?style=for-the-badge&logoColor=6C63FF" height="45"/>
 
 </td>
 </tr>
@@ -73,7 +63,7 @@ I'm a Computer Science student who lives at the intersection of two disciplines:
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=Dreams-19&theme=dark&hide_border=true&ring=6C63FF&fire=00E5FF&currStreakLabel=00E5FF&background=1a1a2e"/>
+<img src="https://streak-stats.demolab.com/?user=Dreams-19&theme=dark&hide_border=false&border=FF6B35&ring=FF6B35&fire=FFB627&currStreakLabel=FFB627&sideLabels=FF6B35&sideNums=ffffff&dates=8888aa&background=1a1a2e"/>
 </div>
 
 <div align="center">
