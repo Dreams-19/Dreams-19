@@ -12,13 +12,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=6C63FF&height=40&section=header" width="100%"/>
 
-## 📖 About
+# 📖 About
 
 I'm a Computer Science student who lives at the intersection of two disciplines: building software and trading markets. Both are exercises in pattern recognition under uncertainty — one just happens to have a live P&L attached.
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00E5FF&height=40&section=header" width="100%"/>
 
-## 🛠️ Toolkit
+# 🛠️ Toolkit
 
 <table align="center">
 <tr>
@@ -26,18 +26,18 @@ I'm a Computer Science student who lives at the intersection of two disciplines:
 
 **Development**
 
-<img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,python,java,php,git,github,firebase,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,python,java,php,git,github,firebase,figma&theme=dark" height="60"/>
 
 </td>
 <td valign="top" width="50%">
 
 **Markets**
 
-<img src="https://img.shields.io/badge/MetaTrader-1a1a2e?style=for-the-badge&logoColor=6C63FF" height="45"/>
-<img src="https://img.shields.io/badge/TradingView-1a1a2e?style=for-the-badge&logo=tradingview&logoColor=00E5FF" height="45"/>
-<img src="https://img.shields.io/badge/Forex-1a1a2e?style=for-the-badge&logoColor=6C63FF" height="45"/>
-<img src="https://img.shields.io/badge/Technical%20Analysis-1a1a2e?style=for-the-badge&logoColor=00E5FF" height="45"/>
-<img src="https://img.shields.io/badge/Risk%20Management-1a1a2e?style=for-the-badge&logoColor=6C63FF" height="45"/>
+<img src="https://img.shields.io/badge/MetaTrader-1a1a2e?style=for-the-badge&logoColor=6C63FF" height="55"/>
+<img src="https://img.shields.io/badge/TradingView-1a1a2e?style=for-the-badge&logo=tradingview&logoColor=00E5FF" height="55"/>
+<img src="https://img.shields.io/badge/Forex-1a1a2e?style=for-the-badge&logoColor=6C63FF" height="55"/>
+<img src="https://img.shields.io/badge/Technical%20Analysis-1a1a2e?style=for-the-badge&logoColor=00E5FF" height="55"/>
+<img src="https://img.shields.io/badge/Risk%20Management-1a1a2e?style=for-the-badge&logoColor=6C63FF" height="55"/>
 
 </td>
 </tr>
@@ -45,7 +45,7 @@ I'm a Computer Science student who lives at the intersection of two disciplines:
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=6C63FF&height=40&section=header" width="100%"/>
 
-## 📈 Trading Philosophy
+# 📈 Trading Philosophy
 
 > Capital preservation comes before capital growth. An edge only compounds if you're still in the game to use it.
 
@@ -55,7 +55,7 @@ I'm a Computer Science student who lives at the intersection of two disciplines:
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00E5FF&height=40&section=header" width="100%"/>
 
-## 📊 GitHub Activity
+# 📊 GitHub Activity
 
 <div align="center">
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=Dreams-19&show_icons=true&theme=dark&hide_border=true&title_color=00E5FF&icon_color=6C63FF&text_color=ffffff&bg_color=1a1a2e"/>
