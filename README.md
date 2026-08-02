@@ -83,7 +83,7 @@ I'm a Computer Science student who lives at the intersection of two disciplines:
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Dreams-19/Dreams-19/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dreams-19&theme=github-dark&hide_border=true&area=true&color=D4AF37&line=D4AF37&point=ffffff&bg_color=0f2027" width="100%"/>
 </div>
 
 <br/>
