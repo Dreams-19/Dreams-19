@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6C63FF,100:00E5FF&height=260&section=header&text=Edmond%20Nana%20Boateng&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20Forex%20Trader%20%E2%80%A2%20CS%20Student&descAlignY=58&descColor=E0E0FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6C63FF,100:00E5FF&height=230&section=header&text=Edmond%20Nana%20Boateng&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20Forex%20Trader%20%E2%80%A2%20CS%20Student&descAlignY=58&descColor=E0E0FF" width="100%"/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=650&lines=Crafting+clean+interfaces%2C+one+component+at+a+time.;Reading+charts+the+way+others+read+the+news.;Discipline+first.+Everything+else+follows." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=650&lines=Crafting+clean+interfaces%2C+one+component+at+a+time.;Reading+charts+the+way+others+read+the+news.;Discipline+first.+Everything+else+follows." />
 </div>
 
 <table align="center">
@@ -12,13 +12,13 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00E5FF&height=110&section=header&text=%F0%9F%93%96%20About&fontSize=64&fontColor=00E5FF&fontAlignY=70" width="100%"/>
+# 📖 About
 
 I'm a Computer Science student who lives at the intersection of two disciplines: building software and trading markets. Both are exercises in pattern recognition under uncertainty — one just happens to have a live P&L attached.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=6C63FF&height=110&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20Toolkit&fontSize=64&fontColor=6C63FF&fontAlignY=70" width="100%"/>
+# 🛠️ Toolkit
 
 **Development**
 
@@ -34,7 +34,7 @@ I'm a Computer Science student who lives at the intersection of two disciplines:
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=FF6B35&height=110&section=header&text=%F0%9F%93%88%20Trading%20Philosophy&fontSize=56&fontColor=FF6B35&fontAlignY=70" width="100%"/>
+# 📈 Trading Philosophy
 
 > Capital preservation comes before capital growth. An edge only compounds if you're still in the game to use it.
 
@@ -44,7 +44,7 @@ I'm a Computer Science student who lives at the intersection of two disciplines:
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00E5FF&height=110&section=header&text=%F0%9F%93%8A%20GitHub%20Activity&fontSize=56&fontColor=00E5FF&fontAlignY=70" width="100%"/>
+# 📊 GitHub Activity
 
 <div align="center">
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=Dreams-19&show_icons=true&theme=dark&hide_border=true&title_color=00E5FF&icon_color=6C63FF&text_color=ffffff&bg_color=1a1a2e"/>
