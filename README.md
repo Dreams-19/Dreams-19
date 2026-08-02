@@ -12,13 +12,13 @@
 
 ---
 
-# 📖 About
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00E5FF&height=110&section=header&text=%F0%9F%93%96%20About&fontSize=64&fontColor=00E5FF&fontAlignY=70" width="100%"/>
 
 I'm a Computer Science student who lives at the intersection of two disciplines: building software and trading markets. Both are exercises in pattern recognition under uncertainty — one just happens to have a live P&L attached.
 
 ---
 
-# 🛠️ Toolkit
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=6C63FF&height=110&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20Toolkit&fontSize=64&fontColor=6C63FF&fontAlignY=70" width="100%"/>
 
 **Development**
 
@@ -34,7 +34,7 @@ I'm a Computer Science student who lives at the intersection of two disciplines:
 
 ---
 
-# 📈 Trading Philosophy
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=FF6B35&height=110&section=header&text=%F0%9F%93%88%20Trading%20Philosophy&fontSize=56&fontColor=FF6B35&fontAlignY=70" width="100%"/>
 
 > Capital preservation comes before capital growth. An edge only compounds if you're still in the game to use it.
 
@@ -44,7 +44,7 @@ I'm a Computer Science student who lives at the intersection of two disciplines:
 
 ---
 
-# 📊 GitHub Activity
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00E5FF&height=110&section=header&text=%F0%9F%93%8A%20GitHub%20Activity&fontSize=56&fontColor=00E5FF&fontAlignY=70" width="100%"/>
 
 <div align="center">
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=Dreams-19&show_icons=true&theme=dark&hide_border=true&title_color=00E5FF&icon_color=6C63FF&text_color=ffffff&bg_color=1a1a2e"/>
