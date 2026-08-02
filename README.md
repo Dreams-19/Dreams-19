@@ -86,7 +86,7 @@ I'm a Computer Science student who lives at the intersection of two disciplines:
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Dreams-19/Dreams-19/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
 <br/>
