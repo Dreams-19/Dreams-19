@@ -4,8 +4,6 @@
 
 <table align="center">
 <tr>
-<td align="center"><a href="#"><img src="https://img.shields.io/badge/-Portfolio-0f2027?style=for-the-badge"/></a></td>
-<td align="center"><a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a></td>
 <td align="center"><a href="mailto:example@email.com"><img src="https://img.shields.io/badge/-Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=white"/></a></td>
 <td align="center"><a href="https://github.com/Dreams-19"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a></td>
 </tr>
