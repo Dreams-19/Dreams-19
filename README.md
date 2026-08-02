@@ -1,28 +1,24 @@
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0f2027,100:2c5364&height=220&section=header&text=Edmond%20Nana%20Boateng&fontSize=48&fontColor=D4AF37&fontAlignY=45&desc=Frontend%20Developer%20%E2%80%A2%20Forex%20Trader%20%E2%80%A2%20CS%20Student&descSize=18&descColor=ffffff&descAlignY=63" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6C63FF,100:00E5FF&height=230&section=header&text=Edmond%20Nana%20Boateng&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20Forex%20Trader%20%E2%80%A2%20CS%20Student&descAlignY=58&descColor=E0E0FF" width="100%"/>
 
-<br/>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=650&lines=Crafting+clean+interfaces%2C+one+component+at+a+time.;Reading+charts+the+way+others+read+the+news.;Discipline+first.+Everything+else+follows." />
+</div>
 
 <table align="center">
 <tr>
-<td align="center"><a href="https://github.com/Dreams-19"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a></td>
+<td align="center"><a href="https://github.com/Dreams-19"><img src="https://img.shields.io/badge/-GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=00E5FF"/></a></td>
 </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=6C63FF&height=40&section=header" width="100%"/>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=1200&color=D4AF37&center=true&vCenter=true&width=650&lines=Crafting+clean+interfaces%2C+one+component+at+a+time.;Reading+charts+the+way+others+read+the+news.;Discipline+first.+Everything+else+follows." />
-</div>
-
----
-
-### 📖 About
+## 📖 About
 
 I'm a Computer Science student who lives at the intersection of two disciplines: building software and trading markets. Both are exercises in pattern recognition under uncertainty — one just happens to have a live P&L attached.
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00E5FF&height=40&section=header" width="100%"/>
 
-### 🛠️ Toolkit
+## 🛠️ Toolkit
 
 <table align="center">
 <tr>
@@ -30,36 +26,36 @@ I'm a Computer Science student who lives at the intersection of two disciplines:
 
 **Development**
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-1a1a2e?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/React-1a1a2e?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/HTML5-1a1a2e?style=flat-square&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-1a1a2e?style=flat-square&logo=css3&logoColor=2965F1"/>
+<img src="https://img.shields.io/badge/Node.js-1a1a2e?style=flat-square&logo=node.js&logoColor=339933"/>
+<img src="https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Java-1a1a2e?style=flat-square&logo=openjdk&logoColor=ED8B00"/>
+<img src="https://img.shields.io/badge/PHP-1a1a2e?style=flat-square&logo=php&logoColor=777BB4"/>
+<img src="https://img.shields.io/badge/Git-1a1a2e?style=flat-square&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/Firebase-1a1a2e?style=flat-square&logo=firebase&logoColor=FFCA28"/>
+<img src="https://img.shields.io/badge/Figma-1a1a2e?style=flat-square&logo=figma&logoColor=F24E1E"/>
 
 </td>
 <td valign="top" width="50%">
 
 **Markets**
 
-<img src="https://img.shields.io/badge/MetaTrader-1B5E20?style=flat-square"/>
-<img src="https://img.shields.io/badge/TradingView-131722?style=flat-square&logo=tradingview&logoColor=white"/>
-<img src="https://img.shields.io/badge/Forex-D4AF37?style=flat-square"/>
-<img src="https://img.shields.io/badge/Technical%20Analysis-0f2027?style=flat-square"/>
-<img src="https://img.shields.io/badge/Risk%20Management-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/MetaTrader-1a1a2e?style=flat-square&logoColor=6C63FF"/>
+<img src="https://img.shields.io/badge/TradingView-1a1a2e?style=flat-square&logo=tradingview&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Forex-1a1a2e?style=flat-square&logoColor=6C63FF"/>
+<img src="https://img.shields.io/badge/Technical%20Analysis-1a1a2e?style=flat-square&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Risk%20Management-1a1a2e?style=flat-square&logoColor=6C63FF"/>
 
 </td>
 </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=6C63FF&height=40&section=header" width="100%"/>
 
-### 📈 Trading Philosophy
+## 📈 Trading Philosophy
 
 > Capital preservation comes before capital growth. An edge only compounds if you're still in the game to use it.
 
@@ -67,30 +63,26 @@ I'm a Computer Science student who lives at the intersection of two disciplines:
 - **Style:** Price action & technical analysis, risk-managed entries
 - **Process:** Backtest in Python → paper trade → size in with strict stop-loss discipline
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00E5FF&height=40&section=header" width="100%"/>
 
-### 📊 GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Dreams-19&show_icons=true&theme=dark&hide_border=true&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff&bg_color=0f2027"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dreams-19&layout=compact&theme=dark&hide_border=true&title_color=D4AF37&text_color=ffffff&bg_color=0f2027"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Dreams-19&show_icons=true&theme=dark&hide_border=true&title_color=00E5FF&icon_color=6C63FF&text_color=ffffff&bg_color=1a1a2e"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dreams-19&layout=compact&theme=dark&hide_border=true&title_color=00E5FF&text_color=ffffff&bg_color=1a1a2e"/>
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=Dreams-19&theme=dark&hide_border=true&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&background=0f2027"/>
+<img src="https://streak-stats.demolab.com/?user=Dreams-19&theme=dark&hide_border=true&ring=6C63FF&fire=00E5FF&currStreakLabel=00E5FF&background=1a1a2e"/>
 </div>
-
-<br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dreams-19&theme=github-dark&hide_border=true&area=true&color=D4AF37&line=D4AF37&point=ffffff&bg_color=0f2027" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dreams-19&theme=react-dark&hide_border=true&area=true&color=00E5FF&line=6C63FF&point=ffffff&bg_color=1a1a2e" width="100%"/>
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:6C63FF,100:1a1a2e&height=150&section=footer" width="100%"/>
 
 <div align="center">
 <sub>Building with code. Trading with discipline.</sub><br/>
-<img src="https://komarev.com/ghpvc/?username=Dreams-19&style=flat-square&color=D4AF37"/>
+<img src="https://komarev.com/ghpvc/?username=Dreams-19&style=flat-square&color=6C63FF"/>
 </div>
