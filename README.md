@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6C63FF,100:00E5FF&height=230&section=header&text=Edmond%20Nana%20Boateng&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20Forex%20Trader%20%E2%80%A2%20CS%20Student&descAlignY=58&descColor=E0E0FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6C63FF,100:00E5FF&height=230&section=header&text=Edmond%20Nana%20Boateng&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Video%20Editor%20%E2%80%A2%20Forex%20Trader%20%E2%80%A2%20CS%20Student&descAlignY=58&descColor=E0E0FF" width="100%"/>
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=650&lines=Crafting+clean+interfaces%2C+one+component+at+a+time.;Reading+charts+the+way+others+read+the+news.;Discipline+first.+Everything+else+follows." />
